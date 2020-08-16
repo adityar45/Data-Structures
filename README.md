@@ -1,4 +1,5 @@
-# Data-Structures
+# Fundamentals-Data-Structures
+Examples
 1. Represent sets using one dimensional arrays and implement functions to perform
 i. Union
 ii. Intersection
